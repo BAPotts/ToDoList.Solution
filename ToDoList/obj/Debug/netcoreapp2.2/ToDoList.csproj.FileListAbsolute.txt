@@ -22,4 +22,5 @@
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.genruntimeconfig.cache
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
-/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/CreateForm.cshtml.g.cs
+/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.cshtml.g.cs
+/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.cshtml.g.cs
