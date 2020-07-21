@@ -5834,23 +5834,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/noelkirkland/.nuget/packages/": {},
+    "/Users/thekidnamedkd/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noelkirkland/Desktop/ToDoList.Solutions/ToDoList.Tests/ToDoList.Tests.csproj",
+      "projectUniqueName": "/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "/Users/noelkirkland/Desktop/ToDoList.Solutions/ToDoList.Tests/ToDoList.Tests.csproj",
-      "packagesPath": "/Users/noelkirkland/.nuget/packages/",
-      "outputPath": "/Users/noelkirkland/Desktop/ToDoList.Solutions/ToDoList.Tests/obj/",
+      "projectPath": "/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+      "packagesPath": "/Users/thekidnamedkd/.nuget/packages/",
+      "outputPath": "/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/noelkirkland/.nuget/NuGet/NuGet.Config"
+        "/Users/thekidnamedkd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -5861,8 +5861,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/noelkirkland/Desktop/ToDoList.Solutions/ToDoList/ToDoList.csproj": {
-              "projectPath": "/Users/noelkirkland/Desktop/ToDoList.Solutions/ToDoList/ToDoList.csproj"
+            "/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj": {
+              "projectPath": "/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj"
             }
           }
         }
@@ -5896,10 +5896,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
       }
     }
   }

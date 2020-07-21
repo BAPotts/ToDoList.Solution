@@ -1,10 +1,27 @@
+using System.Collections.Generic;
+
 namespace ToDoList.Models
 {
   public class Item
   {
-    public static void Main()
+    public string Description { get; set; }
+    private static List<Item> _instances = new List<Item> {};
+
+    public Item (string description)
     {
-    // properties, methods, etc. will go here.
+      Description = description;
+      _instances.Add(this);
     }
+
+    public static List<Item> GetAll()
+    {
+      return _instances;
+    }
+
+    public static void ClearAll()
+    {
+      _instances.Clear();
+    }
+
   }
 }
