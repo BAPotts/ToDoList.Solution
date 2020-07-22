@@ -24,3 +24,4 @@
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.cshtml.g.cs
 /Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.cshtml.g.cs
+/Users/thekidnamedkd/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.cshtml.g.cs
